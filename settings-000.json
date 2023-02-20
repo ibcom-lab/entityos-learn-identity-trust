@@ -1,0 +1,22 @@
+{
+	"entityos":
+	{
+		"hostname": "api.mydigitalstructure.cloud", 
+		"logon": "...", 
+		"password": "...", 
+		"email": "support@ibcom.biz",
+		"testing": 
+		{
+			"status": "true",
+			"showData": "true",
+			"break": "-"
+		},
+		"convert": "true"
+	},
+	"msal":
+	{
+		"clientID": "...",
+		"clientSecret": "...",
+		"redirectURL": "https://auth2.ibcom.biz"
+	}
+}

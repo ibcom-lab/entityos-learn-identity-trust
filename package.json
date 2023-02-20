@@ -1,0 +1,29 @@
+{
+  "name": "entityos",
+  "version": "2.2.8",
+  "licence": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/ibcom/entityos-sdk-npm/raw/master/LICENSE"
+    }
+  ],
+  "description": "node module for entityos.cloud",
+  "preferGlobal": true,
+  "main": "entityos.js",
+  "author": "ibCom Lab",
+  "keywords": [
+    "entityos"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibcom/entityos-sdk-npm.git"
+  },
+  "dependencies": {
+    "@azure/msal-node": "^1.14.4",
+    "lodash": "^4.17.21",
+    "moment": "*"
+  },
+  "engines": {
+    "node": "*"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "method": "get-consent",
+    "queryStringParameters":
+    {
+        "s": "35612b09-c26e-466a-9439-71fb9a9a5c0c",
+        "h": "eR5q8+TptewMdeXvfaVXFltFCGforLnHvw6lrzBVejw=",
+        "c": "c9c17dfc-ffe2-4a34-9c4a-049f075635a7"
+    },
+    "headers": {},
+    "body": {}
+}

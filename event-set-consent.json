@@ -1,0 +1,10 @@
+{
+    "method": "set-consent",
+    "queryStringParameters":
+    {
+        "code": "M.R3_BAY.ac77411d-61bb-30e2-16ba-e082bb2a0e43",
+        "state": "35612b09-c26e-466a-9439-71fb9a9a5c0c%7ceR5q8%2bTptewMdeXvfaVXFltFCGforLnHvw6lrzBVejw%3d%7cc9c17dfc-ffe2-4a34-9c4a-049f075635a7"
+    },
+    "headers": {},
+    "body": {}
+}
